@@ -20,4 +20,7 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
      channels represent:-
      - The L channel represents light intensity only.
      -  The a channel encodes green-red color.
-     - The b channel encodes blue-yellow color
+     - The b channel encodes blue-yellow color.
+
+ 2. Since the L channel can encode intensity, we use it as the input in our network in the grayscale format. We put all ‘L’ values in an array called ‘X’.
+ 3. We then use our model to let the network predict the respective a and b channel values. The ‘ab’ values are divided by 128 (feature scaling) so as to reduce values from [-127, 128] to  (-1, 1] to make the learning process quicker and more efficient. These are now put in an array called ’Y’. 
