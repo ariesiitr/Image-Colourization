@@ -8,7 +8,7 @@ Recruitment project for 1st year
   make use of it to colorize black and white images.
   
   
-  ### Methodology
+  ### Methodology:
   
 Taking input as a black and white image, this model tries to produce a colorized image. We are
 using TensorFlow and Keras API. Our model is trained using Google Colab.
