@@ -38,21 +38,25 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
 ![Output](Images/1flower.png)
 
 ### 3. Landscape:
-![Graph](Images/gLandscape.png)
-![Output](Images/1Landscape.png)
+![Graph]()
+![Output]()
 
 ### 4. Landscape 2.0:
-![Graph](Images/gLandscape2.0.png)
-![Output](Images/1Landscape2.0.png)
-![Output](Images/2Landscape2.0.png)
-![Output](Images/3Landscape2.0.png)
-![Output](Images/4Landscape2.0.png)
+![Graph]()
+![Output]()
+![Output]()
+![Output]()
+![Output]()
 
 ### 5. Flower 2.0:
-![Output]()
 ![Graph]()
+![Output]()
+![Output]()
+![Output]()
+![Output]()
 
 ### 6. Multiclass:
-![Output]()
 ![Graph]()
-
+![Output]()
+![Output]()
+![Output]()
