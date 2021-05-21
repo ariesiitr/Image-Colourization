@@ -14,13 +14,10 @@ Taking input as a black and white image, this model tries to produce a colorized
 using TensorFlow and Keras API. Our model is trained using Google Colab.
 
   1. To train the network, we start off with image datasets made up of colourful pictures. The
-    datasets used here are CIFAR10 and Landscape Dataset. Then we convert all images from
-    the RGB color space to the Lab color space. Just like RGB color space, Lab is an alternate
-    color space in which the three
-    channels represent:-
-    - The L channel represents light
-      intensity only.
-    -  The a channel encodes
-      green-red color.
-    - The b channel encodes
-      blue-yellow color
+     datasets used here are CIFAR10 and Landscape Dataset. Then we convert all images from
+     the RGB color space to the Lab color space. Just like RGB color space, Lab is an alternate
+     color space in which the three
+     channels represent:-
+     - The L channel represents light intensity only.
+     -  The a channel encodes green-red color.
+     - The b channel encodes blue-yellow color
