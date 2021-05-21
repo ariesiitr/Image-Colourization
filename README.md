@@ -1,13 +1,6 @@
 # Image-Colourization
 Recruitment project for 1st year
 
-#### Google Colab Links:
-[Dog](Image_Colourization2(Ship_Airplane_Car_Dog).ipynb)
-<br>[Flower](https://colab.research.google.com/drive/18Q7wLrFuXruZ2OulBggtHUlm1dZH8Sw3?usp=sharing)
-<br>[Landscape](Image_Colourization(Landscape).ipynb)
-<br>[Landscape 2.0](Image_Colourization(Landscape_2_0).ipynb)
-<br>[Multiclass](Image_Colourization(Multiclass).ipynb)
-
 ## Overview:
 
   Deep Learning is an upcoming subset of machine learning which makes use of artificial neural
@@ -83,6 +76,12 @@ Trained with 10,000 randomly selected images from CIFAR 100 dataset. CIFAR 100 i
 <br><img src="Images/2multiClass.png" width="500" alt="Output">
 <br><img src="Images/3multiClass.png" width="500" alt="Output">
 
+## Google Colab Links:
+[Dog](Image_Colourization2(Ship_Airplane_Car_Dog).ipynb)
+<br>[Flower](https://colab.research.google.com/drive/18Q7wLrFuXruZ2OulBggtHUlm1dZH8Sw3?usp=sharing)
+<br>[Landscape](Image_Colourization(Landscape).ipynb)
+<br>[Landscape 2.0](Image_Colourization(Landscape_2_0).ipynb)
+<br>[Multiclass](Image_Colourization(Multiclass).ipynb)
 
 ## References:
 1. Colorful Image Colorization Research Paper by *Richard Zhang, Phillip Isola, Alexei A. Efros*: https://arxiv.org/abs/1603.08511
@@ -92,5 +91,3 @@ Trained with 10,000 randomly selected images from CIFAR 100 dataset. CIFAR 100 i
    -https://www.cs.toronto.edu/~kriz/cifar.html
 3. https://www.pyimagesearch.com/2019/02/25/black-and-white-image-colorization-with-opencv-and-deep-learning/
 4. https://www.youtube.com/watch?v=VyWAvY2CF9c
-
-
