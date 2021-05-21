@@ -66,5 +66,12 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
 ![Output](Images/2multiClass.png)
 ![Output](Images/3multiClass.png)
 
-<img src="Images/1flower2.0.png" width="1000" alt="Image">
-<img src="Images/2flower2.0.png" width="1000" alt="Image">
+## References:
+1. Colorful Image Colorization Research Paper by Richard Zhang, Phillip Isola, Alexei A. Efros: https://arxiv.org/abs/1603.08511
+2. Datasets used:
+  -https://www.kaggle.com/arnaud58/landscape-pictures
+  -https://www.kaggle.com/huseynguliyev/landscape-classification
+  -https://www.cs.toronto.edu/~kriz/cifar.html
+3. https://www.pyimagesearch.com/2019/02/25/black-and-white-image-colorization-with-opencv-and-deep-learning/
+4. https://www.youtube.com/watch?v=VyWAvY2CF9c
+
