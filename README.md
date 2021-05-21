@@ -29,34 +29,39 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
  6. 10% of the dataset is used as the validation set. Our network trains for multiple epochs.
  
 ## Various Models:
+
 ### 1. Dog:
 ![Graph](Images/gDog.png)
 ![Output](Images/1dog.png)
+
 
 ### 2. Flower:
 ![Graph](Images/gFlower.png)
 ![Output](Images/1flower.png)
 
+
 ### 3. Landscape:
-![Graph]()
-![Output]()
+![Graph](Images/gLandscape.png)
+![Output](Images/1Landscape.png)
+
 
 ### 4. Landscape 2.0:
-![Graph]()
-![Output]()
-![Output]()
-![Output]()
-![Output]()
+![Graph](Images/gLandscape2.0.png)
+![Output](Images/1Landscape2.0.png)
+![Output](Images/2Landscape2.0.png)
+![Output](Images/3Landscape2.0.png)
+![Output](Images/4Landscape2.0.png)
+
 
 ### 5. Flower 2.0:
-![Graph]()
-![Output]()
-![Output]()
-![Output]()
-![Output]()
+![Graph](Images/gFlower2.0.png)
+![Output](Images/1flower2.0.png)
+![Output](Images/2flower2.0.png)
+![Output](Images/3flower2.0.png)
+![Output](Images/4flower2.0.png)
+
 
 ### 6. Multiclass:
-![Graph]()
-![Output]()
-![Output]()
-![Output]()
+![Output](Images/1multiClass.png)
+![Output](Images/2multiClass.png)
+![Output](Images/3multiClass.png)
