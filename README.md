@@ -33,3 +33,5 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
  <p align="center">
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstocksnap.io%2Fsearch%2Fnature&psig=AOvVaw0_gANu-gX-EuoJPvYdImzh&ust=1621697434699000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDk7-6L2_ACFQAAAAAdAAAAABAD" width="350" title="hover text">
 </p>
+
+This site was built using [GitHub Pages]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fstocksnap.io%2Fsearch%2Fnature&psig=AOvVaw0_gANu-gX-EuoJPvYdImzh&ust=1621697434699000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDk7-6L2_ACFQAAAAAdAAAAABAD")
