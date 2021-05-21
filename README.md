@@ -1,6 +1,13 @@
 # Image-Colourization
 Recruitment project for 1st year
 
+#### Google Colab Links:
+[Dog](Image_Colourization2(Ship_Airplane_Car_Dog).ipynb)
+<br>[Flower](https://colab.research.google.com/drive/18Q7wLrFuXruZ2OulBggtHUlm1dZH8Sw3?usp=sharing)
+<br>[Landscape](Image_Colourization(Landscape).ipynb)
+<br>[Landscape 2.0](Image_Colourization(Landscape_2_0).ipynb)
+<br>[Multiclass](Image_Colourization(Multiclass).ipynb)
+
 ## Overview:
 
   Deep Learning is an upcoming subset of machine learning which makes use of artificial neural
