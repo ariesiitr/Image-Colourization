@@ -76,7 +76,7 @@ Trained with 10,000 randomly selected images from CIFAR 100 dataset. CIFAR 100 i
 <br><img src="Images/2multiClass.png" width="500" alt="Output">
 <br><img src="Images/3multiClass.png" width="500" alt="Output">
 
-## Google Colab Links:
+## Source Code:
 [Dog](Image_Colourization2(Ship_Airplane_Car_Dog).ipynb)
 <br>[Flower](https://colab.research.google.com/drive/18Q7wLrFuXruZ2OulBggtHUlm1dZH8Sw3?usp=sharing)
 <br>[Landscape](Image_Colourization(Landscape).ipynb)
