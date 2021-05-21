@@ -1,14 +1,14 @@
 # Image-Colourization
 Recruitment project for 1st year
 
-### Overview:
+## Overview:
 
   Deep Learning is an upcoming subset of machine learning which makes use of artificial neural
   networks. These are inspired by the human brain and its immense structure and function. Here we
   make use of it to colorize black and white images.
   
   
-  ### Methodology:
+  ## Methodology:
   
 Taking input as a black and white image, this model tries to produce a colorized image. We are
 using TensorFlow and Keras API. Our model is trained using Google Colab.
@@ -28,11 +28,6 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
  5. It uses the ADAM optimizer with a learning rate of 0.0003. The loss function used is mean squared error. It also includes a Dropout layer to prevent overfitting. 
  6. 10% of the dataset is used as the validation set. Our network trains for multiple epochs.
  
- Finally, we define a function which an image as an input and outputs its original, grayscale and predicted colourized form as predicted by our model.
- 
- <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstocksnap.io%2Fsearch%2Fnature&psig=AOvVaw0_gANu-gX-EuoJPvYdImzh&ust=1621697434699000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDk7-6L2_ACFQAAAAAdAAAAABAD" width="350" title="hover text">
-</p>
-
-### Various Models:
+## Various Models:
+1. Dog
 
