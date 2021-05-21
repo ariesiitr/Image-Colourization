@@ -31,5 +31,5 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
  Finally, we define a function which an image as an input and outputs its original, grayscale and predicted colourized form as predicted by our model.
  
  <p align="center">
-  <img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F14494747%2Fhow-to-add-images-to-readme-md-on-github&psig=AOvVaw0lBCp-ygEWKO0MCzsDLM_8&ust=1621696950956000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj33IeK2_ACFQAAAAAdAAAAABAo" width="350" title="hover text">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstocksnap.io%2Fsearch%2Fnature&psig=AOvVaw0_gANu-gX-EuoJPvYdImzh&ust=1621697434699000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDk7-6L2_ACFQAAAAAdAAAAABAD" width="350" title="hover text">
 </p>
