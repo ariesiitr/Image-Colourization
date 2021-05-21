@@ -31,9 +31,8 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
 ## Various Models:
 
 ### 1. Dog:
-![Graph](Images/gDog.png)
-![Output](Images/1dog.png)
-
+<img src="Images/gDog.png" width="500" alt="Graph">
+<img src="Images/1dog.png" width="500" alt="Output">
 
 ### 2. Flower:
 ![Graph](Images/gFlower.png)
