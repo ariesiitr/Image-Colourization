@@ -18,9 +18,9 @@ datasets used here are CIFAR10 and Landscape Dataset. Then we convert all images
 the RGB color space to the Lab color space. Just like RGB color space, Lab is an alternate
 color space in which the three
 channels represent:-
-○ The L channel represents light
+- The L channel represents light
 intensity only.
-○ The a channel encodes
+-  The a channel encodes
 green-red color.
-○ The b channel encodes
+- The b channel encodes
 blue-yellow color
