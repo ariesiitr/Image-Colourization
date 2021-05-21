@@ -1,6 +1,10 @@
 # Image-Colourization
 Recruitment project for 1st year
 
+#### Google Colab Links:
+![Flower](https://colab.research.google.com/drive/18Q7wLrFuXruZ2OulBggtHUlm1dZH8Sw3?usp=sharing)
+![Landscape]()
+
 ## Overview:
 
   Deep Learning is an upcoming subset of machine learning which makes use of artificial neural
