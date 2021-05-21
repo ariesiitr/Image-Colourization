@@ -24,3 +24,8 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
 
  2. Since the L channel can encode intensity, we use it as the input in our network in the grayscale format. We put all ‘L’ values in an array called ‘X’.
  3. We then use our model to let the network predict the respective a and b channel values. The ‘ab’ values are divided by 128 (feature scaling) so as to reduce values from [-127, 128] to  (-1, 1] to make the learning process quicker and more efficient. These are now put in an array called ’Y’. 
+ 4. Our model is a Convolutional Neural Network (CNN) which trains on ‘X’ as feature inputs and ‘Y’ as target values.The model consists of a number of convolutional layers. There are no pooling layers in our network. Changes in resolution are achieved using striding and upsampling layers. The kernels are sized 3x3. 
+ 5. It uses the ADAM optimizer with a learning rate of 0.0003. The loss function used is mean squared error. It also includes a Dropout layer to prevent overfitting. 
+ 6. 10% of the dataset is used as the validation set. Our network trains for multiple epochs.
+ 
+ Finally, we define a function which an image as an input and outputs its original, grayscale and predicted colourized form as predicted by our model.
