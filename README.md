@@ -65,3 +65,6 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
 ![Output](Images/1multiClass.png)
 ![Output](Images/2multiClass.png)
 ![Output](Images/3multiClass.png)
+
+<img src="Images/1flower2.0.png" width="100" alt="Image">
+<img src="Images/2flower2.0.png" width="100" alt="Image">
