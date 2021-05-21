@@ -30,12 +30,12 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
  
 ## Various Models:
 ### 1. Dog:
-![Output](Images/1dog.png)
 ![Graph](Images/gDog.png)
+![Output](Images/1dog.png)
 
 ### 2. Flower:
-![Output](Images/1flower.png)
 ![Graph](Images/gFlower.png)
+![Output](Images/1flower.png)
 
 ### 3. Landscape:
 ![Output]()
