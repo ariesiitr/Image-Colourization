@@ -31,39 +31,34 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
 ## Various Models:
 
 ### 1. Dog:
-<img src="Images/gDog.png" width="800" alt="Graph">
+<img src="Images/gDog.png" width="700" alt="Graph">
 <img src="Images/1dog.png" width="500" alt="Output">
 
 ### 2. Flower:
-![Graph](Images/gFlower.png)
-![Output](Images/1flower.png)
-
+<img src="Images/gFlower.png" width="700" alt="Graph">
+<img src="Images/1flower.png" width="500" alt="Output">
 
 ### 3. Landscape:
-![Graph](Images/gLandscape.png)
-![Output](Images/1Landscape.png)
-
+<img src="Images/gLandscape.png" width="700" alt="Graph">
+<img src="Images/1Landscape.png" width="500" alt="Output">
 
 ### 4. Landscape 2.0:
-![Graph](Images/gLandscape2.0.png)
-![Output](Images/1Landscape2.0.png)
-![Output](Images/2Landscape2.0.png)
-![Output](Images/3Landscape2.0.png)
-![Output](Images/4Landscape2.0.png)
-
+<img src="Images/gLandscape2.0.png" width="700" alt="Graph">
+<img src="Images/1Landscape2.0.png" width="500" alt="Output">
+<img src="Images/2Landscape2.0.png" width="500" alt="Output">
+<img src="Images/3Landscape2.0.png" width="500" alt="Output">
+<img src="Images/4Landscape2.0.png" width="500" alt="Output">
 
 ### 5. Flower 2.0:
-![Graph](Images/gFlower2.0.png)
-![Output](Images/1flower2.0.png)
-![Output](Images/2flower2.0.png)
-![Output](Images/3flower2.0.png)
-![Output](Images/4flower2.0.png)
-
+<img src="Images/gFlower2.0.png" width="700" alt="Graph">
+<img src="Images/1flower2.0.png" width="500" alt="Output">
+<img src="Images/2flower2.0.png" width="500" alt="Output">
+<img src="Images/3flower2.0.png" width="500" alt="Output">
+<img src="Images/4flower2.0.png" width="500" alt="Output">
 
 ### 6. Multiclass:
-![Output](Images/1multiClass.png)
-![Output](Images/2multiClass.png)
-![Output](Images/3multiClass.png)
+<img src="Images/1multiClass.png" width="500" alt="Output">
+<img src="Images/2multiClass.png" width="500" alt="Output">
+<img src="Images/3multiClass.png" width="500" alt="Output">
 
-<img src="Images/1flower2.0.png" width="500" alt="Image">
-<img src="Images/2flower2.0.png" width="500" alt="Image">
+
