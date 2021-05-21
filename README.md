@@ -39,10 +39,12 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
 <img src="Images/1flower.png" width="500" alt="Output">
 
 ### 3. Landscape:
+Trained on Dataset of 3,000 landscape images sized 64x64.
 <img src="Images/gLandscape.png" width="700" alt="Graph">
 <img src="Images/1Landscape.png" width="500" alt="Output">
 
 ### 4. Landscape 2.0:
+Trained with a Dataset of 8,000 landscape images of size 128x128.
 <img src="Images/gLandscape2.0.png" width="700" alt="Graph">
 <img src="Images/1Landscape2.0.png" width="500" alt="Output">
 <img src="Images/2Landscape2.0.png" width="500" alt="Output">
@@ -50,6 +52,7 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
 <img src="Images/4Landscape2.0.png" width="500" alt="Output">
 
 ### 5. Flower 2.0:
+Trained on 3 different datasets to give colourized images of 128x128 pixels. 
 <img src="Images/gFlower2.0.png" width="700" alt="Graph">
 <img src="Images/1flower2.0.png" width="500" alt="Output">
 <img src="Images/2flower2.0.png" width="500" alt="Output">
@@ -57,8 +60,18 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
 <img src="Images/4flower2.0.png" width="500" alt="Output">
 
 ### 6. Multiclass:
+Trained with 10,000 randomly selected images from CIFAR 100 dataset. CIFAR 100 is a dataset of 50,000 images of size 32x32 belonging to 100 different object classes.
 <img src="Images/1multiClass.png" width="500" alt="Output">
 <img src="Images/2multiClass.png" width="500" alt="Output">
 <img src="Images/3multiClass.png" width="500" alt="Output">
+
+## References:
+1. Colorful Image Colorization Research Paper by Richard Zhang, Phillip Isola, Alexei A. Efros: https://arxiv.org/abs/1603.08511
+2. Datasets used:
+   -https://www.kaggle.com/arnaud58/landscape-pictures
+   -https://www.kaggle.com/huseynguliyev/landscape-classification
+   -https://www.cs.toronto.edu/~kriz/cifar.html
+3. https://www.pyimagesearch.com/2019/02/25/black-and-white-image-colorization-with-opencv-and-deep-learning/
+4. https://www.youtube.com/watch?v=VyWAvY2CF9c
 
 
