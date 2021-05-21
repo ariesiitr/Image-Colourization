@@ -29,3 +29,5 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
  6. 10% of the dataset is used as the validation set. Our network trains for multiple epochs.
  
  Finally, we define a function which an image as an input and outputs its original, grayscale and predicted colourized form as predicted by our model.
+ 
+ <img src="https://photos.app.goo.gl/bwSMsSRYhbxABRSMA" alt="img">
