@@ -30,4 +30,4 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
  
  Finally, we define a function which an image as an input and outputs its original, grayscale and predicted colourized form as predicted by our model.
  
- <img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F14494747%2Fhow-to-add-images-to-readme-md-on-github&psig=AOvVaw0lBCp-ygEWKO0MCzsDLM_8&ust=1621696950956000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj33IeK2_ACFQAAAAAdAAAAABAo" alt="img">
+ [image]("https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fstackoverflow.com%2Fquestions%2F14494747%2Fhow-to-add-images-to-readme-md-on-github&psig=AOvVaw0lBCp-ygEWKO0MCzsDLM_8&ust=1621696950956000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLj33IeK2_ACFQAAAAAdAAAAABAo")
