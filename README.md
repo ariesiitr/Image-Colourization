@@ -29,5 +29,6 @@ using TensorFlow and Keras API. Our model is trained using Google Colab.
  6. 10% of the dataset is used as the validation set. Our network trains for multiple epochs.
  
 ## Various Models:
-1. Dog
+### 1. Dog:
+       - [Output]("Images/1dog.png")
 
