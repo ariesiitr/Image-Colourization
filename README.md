@@ -2,8 +2,8 @@
 Recruitment project for 1st year
 
 #### Google Colab Links:
-[Flower](https://colab.research.google.com/drive/18Q7wLrFuXruZ2OulBggtHUlm1dZH8Sw3?usp=sharing)
-[Landscape]()
+<br>[Flower](https://colab.research.google.com/drive/18Q7wLrFuXruZ2OulBggtHUlm1dZH8Sw3?usp=sharing)
+<br>[Landscape]()
 
 ## Overview:
 
